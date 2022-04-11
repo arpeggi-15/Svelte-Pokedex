@@ -2,6 +2,7 @@
   "name": "svelte-pokedex",
   "version": "0.0.1",
   "scripts": {
+    "start": "node index.js",
     "dev": "svelte-kit dev",
     "build": "svelte-kit build",
     "package": "svelte-kit package",
